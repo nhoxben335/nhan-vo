@@ -1,6 +1,6 @@
 ### Hi there 👋, Nhan Vo
 #### Full-Stack | Front-End | Web Development 
-![Full-Stack | Front-End Development](https://i.etsystatic.com/25584400/r/il/f470e9/3649558856/il_fullxfull.3649558856_tt2m.jpg)
+![Full-Stack | Front-End Development](https://github.com/nhoxben335/nhan-vo/blob/main/background.jpg)
 
 Hello and welcome to my GitHub page! I am a new graduated web developer with a passion for crafting high-quality and user-friendly websites and applications. My expertise includes HTML, CSS, JavaScript, and various web development frameworks (Laravel, Angular, Vue, Express.js, Bootstrap, etc..)  I believe in clean code, efficient design, and delivering a seamless user experience.
 
