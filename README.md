@@ -11,7 +11,7 @@ Linkedin: https://www.linkedin.com/in/nhan-vo-business/
 
 
 
-Skills: REACT / JS / HTML / CSS / WORDPRESS / 
+Skills: REACT / JS / HTML / CSS / WORDPRESS
 
 - 🔭 I’m currently working on this page. 
 
