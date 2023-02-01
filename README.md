@@ -7,8 +7,6 @@ Hello and welcome to my GitHub page! I am a new graduated web developer with a p
 Here on my GitHub, you will find a portfolio of my past projects and a glimpse into my development process. If you like what you see, feel free to reach out and connect with me. I am always eager to learn and grow as a developer, and I welcome any opportunities to collaborate on new and exciting projects.
 
 Portfolio: https://nhan-vo-personal-portfolio-website.netlify.app/ 
-Linkedin: https://www.linkedin.com/in/nhan-vo-business/
-
 
 
 Skills: REACT / JS / HTML / CSS / WORDPRESS
