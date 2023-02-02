@@ -18,7 +18,7 @@ Portfolio: https://nhan-vo-personal-portfolio-website.netlify.app/
 ## Academic Course 
 Logic & Programming, Web Development, Database Fundamentals, Client Side Programming, User Interface Design & Development, Linux Operating Systems, Web Server Fundamentals, Object Oriented Programming (OOP), Systems Analysis & Design, Networking & Security, Windows Administration, Professional Practices IT, Web Application Programming, Fullstack Programming, Electron Development, Web Design Fundamentals, Content Management Systems, Emerging Technologies, Capstone Project.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhoxben335)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhoxben335&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhoxben335)](https://github.com/anuraghazra/github-readme-stats)
 
 
