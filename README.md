@@ -10,11 +10,6 @@ Here on my GitHub, you will find a portfolio of my past projects and a glimpse i
 
 Portfolio: https://nhan-vo-personal-portfolio-website.netlify.app/ 
 
-## Skills and Experience 
-* React, WordPress
-* HTML, CSS, JS
-* PHP
-
 ## Academic Course 
 Logic & Programming, Web Development, Database Fundamentals, Client Side Programming, User Interface Design & Development, Linux Operating Systems, Web Server Fundamentals, Object Oriented Programming (OOP), Systems Analysis & Design, Networking & Security, Windows Administration, Professional Practices IT, Web Application Programming, Fullstack Programming, Electron Development, Web Design Fundamentals, Content Management Systems, Emerging Technologies, Capstone Project.
 
